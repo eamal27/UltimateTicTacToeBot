@@ -1,0 +1,6 @@
+*.iml
+.idea/
+bin/
+*.class
+out.txt
+err.txt

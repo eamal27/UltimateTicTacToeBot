@@ -1,0 +1,3 @@
+[submodule "ultimatebitbot"]
+	path = ultimatebitbot
+	url = git@github.com:jipson7/ultimatebitbot.git
